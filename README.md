@@ -71,7 +71,8 @@ To clean and prepare data:
   ML is not random — it follows steps.
   The ML Workflow (Very Important)
  
-  Here is the complete ML pipeline:
+  Here is the complete ML pipeline:  
+  
   -Step 1 — Define the problem
   Classification? Regression? Clustering?
   
