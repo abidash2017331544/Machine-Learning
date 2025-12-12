@@ -24,7 +24,7 @@ Normally need:
 This is the data your model will learn from.
 Example: images, text, tables, sales data, etc.
 
- 3. ML Libraries / Tools
+ 2. ML Libraries / Tools
     
 These are software packages that help you build models easily.
 Popular ones:
@@ -37,7 +37,7 @@ Popular ones:
   -	spaCy / NLTK → NLP text processing
   -	OpenCV → Computer vision image processing
 
- 5. Algorithms / Models
+ 3. Algorithms / Models
     
 These are mathematical methods that learn patterns.
 Examples:
@@ -50,23 +50,23 @@ Examples:
   -	KMeans
   -	PCA
     
- 7. Compute (CPU/GPU)
+ 4. Compute (CPU/GPU)
     
   -	Classical ML → CPU is enough
   -	Deep learning → GPU needed
 
- 9. Evaluation Metrics
+ 5. Evaluation Metrics
 To measure performance.
 Examples: accuracy, precision, MAE, RMSE, R².
 
-10. Preprocessing Tools
+6. Preprocessing Tools
 To clean and prepare data:
   -	Scaling
   -	Encoding
   -	Imputing missing values
   -	Feature selection
 
-11. A workflow / pipeline
+7. A workflow / pipeline
     
   ML is not random — it follows steps.
   The ML Workflow (Very Important)
